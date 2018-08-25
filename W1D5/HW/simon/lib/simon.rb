@@ -10,7 +10,13 @@ class Simon
   end
 
   def play
+    until game_over
+      take_turn
+      system("clear")
+    end
 
+    game_over_message
+    reset_game
   end
 
   def take_turn
@@ -63,4 +69,9 @@ class Simon
     @game_over = false
     @seq = []
   end
+end
+
+if __FILE__ == $0
+  new_game = Simon.new
+  new_game.play
 end
