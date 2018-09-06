@@ -1,0 +1,82 @@
+
+html, head, body, title, section, aside, ol, ul, li, a, img, p, nav, header, script, h1, h2, meta, link, figure, figcaption, input, label, select, option, form, footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+}
+
+ol, ul, li {
+  list-style: none;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* html, body, div, span, h1, h2, h3, h4, a, ol, ul, li, form, label, article, aside, figure, figcaption, footer, header, nav {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+body {
+  line-height: 1.5
+}
+
+img {
+  width: 100% 
+} */
