@@ -1,0 +1,9 @@
+/* PHASE 7: Online */
+
+.online {
+  position: absolute;
+  transform: rotate(-0.1turn) translate(110px, -140px);
+  border: 1px solid black;
+  padding: 5px;
+  box-shadow: 2px 2px;
+}
