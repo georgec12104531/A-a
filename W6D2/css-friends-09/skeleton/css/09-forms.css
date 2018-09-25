@@ -1,0 +1,42 @@
+.thumb:active {
+  
+}
+
+.input:focus {
+  border-color: green;
+}
+
+.input {
+  margin-left: 10px;
+}
+
+.input label {
+  display: block;
+}
+
+.input input {
+  background-color: white;
+  display: block;
+  width: 600px;
+}
+
+
+.form {
+  background-color: grey;
+  display: flex;
+  padding: 20px;
+  
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+}
+.submit {
+  display: flex;
+  margin-left: 10px;
+}
+
+.submit p {
+  margin: 5px;
+}

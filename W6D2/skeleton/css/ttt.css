@@ -1,0 +1,18 @@
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 750px;
+}
+
+li {
+  background-color: teal;
+  /* margin: 20px; */
+  list-style: none;
+  height: 200px;
+  width: 200px;
+  border: 5px solid black;
+}
+
+li:hover {
+  background-color: grey;
+}
